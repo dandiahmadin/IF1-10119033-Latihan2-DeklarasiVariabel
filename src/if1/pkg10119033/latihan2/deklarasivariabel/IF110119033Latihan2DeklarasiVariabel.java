@@ -12,7 +12,7 @@ package if1.pkg10119033.latihan2.deklarasivariabel;
  * NAMA     : Dandi Ahmadin
  * KELAS    : IF-1
  * NIM      : 10119033
- * Deskripsi Program : Program ini berisi deklarasi dan pengaksesan variable
+ * Deskripsi Program : Program ini berisi deklarasi dan pengaksesan variabel
  */
 public class IF110119033Latihan2DeklarasiVariabel {
 
